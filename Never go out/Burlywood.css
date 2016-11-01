@@ -1,0 +1,26 @@
+﻿
+body {
+    Background-color: burlywood;
+    font-family:Arial;
+    margin: 0cm 10cm 0cm 10cm;    
+}
+ul{
+    list-style:none; 
+}
+.wordcenter {
+    text-align:center;
+}
+li::first-letter {
+    font-size: 20px;
+    font-weight: bold;
+}
+.borderdots{
+    border:dotted;
+}
+h1{
+    border-bottom:dotted;
+}
+div {
+    background-color:antiquewhite;
+    border:dotted;
+}
